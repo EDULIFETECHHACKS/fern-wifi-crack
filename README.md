@@ -7,7 +7,7 @@
 Fern-Wifi-Cracker is designed to be used in testing and discovering flaws in one's own network with the aim of fixing the flaws detected, **DO NOT** use the program on networks for which you don't have permission, I am not responsible for whatever damage you cause by using this software.
 
 -----
-<
+
 Visit [http://www.fern-pro.com](https://www.fern-pro.com) for professional version
 <a href="http://www.fern-pro.com/">
 ![shadow case](.readme/shadow_case.png)
