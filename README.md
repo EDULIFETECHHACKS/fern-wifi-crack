@@ -53,10 +53,10 @@ The following dependencies can be installed using the *Debian package installer*
 The *source code* for the program can be fetched using the following command on terminal:
 
 ```bash
-git clone https://github.com/edulifetechhacks/fern-wifi-cracker.git
+git clone https://github.com/edulifetechhacks/fern-wifi-crack.git
 ```
 ```bash
-   cd fern-wifi-cracker/Fern-Wifi-Cracker/
+   cd fern-wifi-crack/Fern-Wifi-Cracker/
 ```
 ```bash 
 ls 
