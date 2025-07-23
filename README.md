@@ -56,7 +56,7 @@ The *source code* for the program can be fetched using the following command on 
 git clone https://github.com/edulifetechhacks/fern-wifi-crack.git
 ```
 ```bash
-   cd fern-wifi-crack/Fern-Wifi-Cracker/
+cd fern-wifi-crack/Fern-Wifi-Cracker/
 ```
 ```bash 
 ls 
